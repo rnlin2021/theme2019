@@ -3,7 +3,7 @@ $header-bg: #0a0a0a;
 $blue: rgb(94, 0, 0);
 
 .header-global {
-    height: 900px;
+    height: 90px;
     border-bottom: none;
 
     .wrapper-header {
@@ -14,7 +14,7 @@ $blue: rgb(94, 0, 0);
 
 .home > header {
     background: url("../images/banner.png");
-    background-size :contain;
+    background-size :cover;
 	
 }
 
